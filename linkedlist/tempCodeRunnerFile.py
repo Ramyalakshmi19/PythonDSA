@@ -1,0 +1,1 @@
+head= linkedlist.getInput()
